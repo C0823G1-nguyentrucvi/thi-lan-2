@@ -1,0 +1,131 @@
+{
+  "oder": [
+    {
+      "id": 1,
+      "ma": 200,
+      "ngay": "10/11/2024",
+      "tongTien": 10000,
+      "soLuong": 12,
+      "sanPham": {
+        "id": 1,
+        "maSanPham": "UL",
+        "tenSanPham": "samsung",
+        "gia": 110000,
+        "loaiSanPham": "tivi"
+      }
+    },
+    {
+      "id": 2,
+      "ma": 201,
+      "ngay": "10/11/2024",
+      "tongTien": 10000,
+      "soLuong": 12,
+      "sanPham": {
+        "id": 2,
+        "maSanPham": "UL",
+        "tenSanPham": "samsung",
+        "gia": 110000,
+        "loaiSanPham": "tivi"
+      }
+    },
+    {
+      "id": 3,
+      "ma": 202,
+      "ngay": "10/11/2024",
+      "tongTien": 10000,
+      "soLuong": 12,
+      "sanPham": {
+        "id": 3,
+        "maSanPham": "UL",
+        "tenSanPham": "samsung",
+        "gia": 110000,
+        "loaiSanPham": "tivi"
+      }
+    },
+    {
+      "ma": "truc",
+      "tenSanPham": "",
+      "gia": "1222",
+      "loaiSanPham": "",
+      "ngay": "10/11/2222",
+      "soLuong": "33",
+      "tongTien": "3333333",
+      "sanPham": {
+        "id": 3,
+        "maSanPham": 300,
+        "tenSanPham": "tủ lạnh",
+        "gia": 110000,
+        "loaiSanPham": "laptop"
+      },
+      "id": 4
+    },
+    {
+      "ma": "phuong",
+      "gia": "1222",
+      "ngay": "10/11/2222",
+      "soLuong": "33",
+      "tongTien": "3333333",
+      "sanPham": {
+        "id": 1,
+        "maSanPham": 100,
+        "tenSanPham": "samsung",
+        "gia": 110000,
+        "loaiSanPham": "tivi"
+      },
+      "id": 6
+    },
+    {
+      "ma": "phuong",
+      "gia": "1222",
+      "ngay": "10/11/2222",
+      "soLuong": "33",
+      "tongTien": "000000000000000000",
+      "sanPham": {
+        "id": 2,
+        "maSanPham": 200,
+        "tenSanPham": "tivi",
+        "gia": 110000,
+        "loaiSanPham": "điện thoại"
+      },
+      "id": 7
+    },
+    {
+      "ma": "phuong",
+      "gia": "1222",
+      "ngay": "10/11/2222",
+      "soLuong": "33",
+      "tongTien": "666666",
+      "sanPham": {
+        "id": 2,
+        "maSanPham": 200,
+        "tenSanPham": "tivi",
+        "gia": 110000,
+        "loaiSanPham": "điện thoại"
+      },
+      "id": 8
+    }
+  ],
+  "sanPham": [
+    {
+      "id": 1,
+      "maSanPham": 100,
+      "tenSanPham": "samsung",
+      "gia": 110000,
+      "loaiSanPham": "tivi"
+    },
+    {
+      "id": 2,
+      "maSanPham": 200,
+      "tenSanPham": "tivi",
+      "gia": 110000,
+      "loaiSanPham": "điện thoại"
+    },
+    {
+      "id": 3,
+      "maSanPham": 300,
+      "tenSanPham": "tủ lạnh",
+      "gia": 110000,
+      "loaiSanPham": "laptop"
+    }
+  ]
+}
